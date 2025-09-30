@@ -1,0 +1,15 @@
+{
+  "java.import.generatesMetadataFilesAtProjectRoot": false,
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.factorypath": true,
+    "**/.settings": true
+  },
+  "github.copilot.enable": false,
+  "github.copilot.chat.enable": false,
+  "java.project.importOnFirstTimeStartup": "automatic",
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar"
+  ]
+}
